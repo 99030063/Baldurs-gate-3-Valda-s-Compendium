@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="4" build="600"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+        <children>
+            <node id="ActionResourceDefinition">
+                <attribute id="Description" type="TranslatedString" handle="hee9cb38fg23ddg41b1g8c84g31cf4eeb6517" version="1"/>
+                <attribute id="DisplayName" type="TranslatedString" handle="hf0c29876gd70fg406aga2f6g9969cbf7a357" version="1"/>
+                <attribute id="MaxLevel" type="uint32" value="0"/>
+                <attribute id="Name" type="FixedString" value="ChronalShiftResource"/>
+                <attribute id="PartyActionResource" type="bool" value="false"/>
+                <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                <attribute id="UUID" type="guid" value="cf68e8cc-a022-4ee6-892f-f1c938f37c5c"/>
+            </node>
+            <node id="ActionResourceDefinition">
+                <attribute id="Description" type="TranslatedString" handle="h504866f8gae59g4958g8a5cg2ef7c2b85b78" version="1"/>
+                <attribute id="DisplayName" type="TranslatedString" handle="h714b455fg8e83g45d6g8025gb06a0cfa5886" version="1"/>
+                <attribute id="MaxLevel" type="uint32" value="0"/>
+                <attribute id="Name" type="FixedString" value="ArcaneAbeyanceResource"/>
+                <attribute id="PartyActionResource" type="bool" value="false"/>
+                <attribute id="ReplenishType" type="FixedString" value="ShortRest"/>
+                <attribute id="ShowOnActionResourcePanel" type="bool" value="false"/>
+                <attribute id="UUID" type="guid" value="3312d34a-1199-4e51-8dd5-5d2ef61a73a3"/>
+            </node>
+            <node id="ActionResourceDefinition">
+                <attribute id="Description" type="TranslatedString" handle="h39e4ee46g8d5ag4f31gbb13gd94713cbc998" version="1"/>
+                <attribute id="DisplayName" type="TranslatedString" handle="hc0a74adbgbd26g453ag8a71gea94e6e33f75" version="1"/>
+                <attribute id="MaxLevel" type="uint32" value="0"/>
+                <attribute id="Name" type="FixedString" value="MomentaryStasisResources"/>
+                <attribute id="PartyActionResource" type="bool" value="false"/>
+                <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                <attribute id="UUID" type="guid" value="298a730f-b1b7-4b71-8ad7-766eb6ca4acd"/>
+            </node>
+        </children>
+        </node>
+    </region>
+</save>

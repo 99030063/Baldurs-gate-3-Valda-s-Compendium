@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="8" build="608"/>
+    <region id="TooltipUpcastDescriptions">
+        <node id="root">
+            <children>
+                <node id="TooltipUpcastDescriptions">
+                    <attribute id="Name" type="FixedString" value="Pulse Wave"/>
+                    <attribute id="Text" type="TranslatedString" handle="h2db4e095g717fg4674g80bege85837d32a1a" version="1"/>
+                    <attribute id="UUID" type="guid" value="ee49dfc3-9a4a-4cf8-bbc0-26a4aa82fb6a"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

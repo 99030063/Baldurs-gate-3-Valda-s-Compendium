@@ -1,0 +1,6 @@
+new entry "WielderOfDunamis"
+type "PassiveData"
+data "DisplayName" "hda5784c7gbfd2g4636ga621g001e317fcd7c;1"
+data "Description" "h55f8242eg4e71g48b9g9b9ag04edcd4b9e5b;1"
+data "Icon" "PassiveFeature_RitualCaster_FreeSpells"
+data "Properties" "Highlighted"

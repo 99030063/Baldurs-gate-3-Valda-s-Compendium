@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="8" build="606" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="UUID" type="guid" value="0e024d5d-b371-41ab-8036-8192852c7e9a" />
+			<attribute id="Name" type="FixedString" value="WIZARD_DUNAMANCY" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h6c232e32gf9e2g4b54gb0e9gec85b25b0c35" version="1" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h85247d26gd87bg47fbga4cdgb0b7f0bb8446" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Description" type="LSString" value="Dunamancy Wizard" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Story" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Class" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="CharacterSheet" />
+						</node>
+					</children>
+				</node>
+				<node id="Properties" />
+			</children>
+		</node>
+	</region>
+</save>
